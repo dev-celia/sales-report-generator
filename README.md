@@ -40,6 +40,11 @@ Automated Python tool that generates a professional PDF sales report with charts
 
 4\. Open `sales\_report.pdf`
 
+![Sales by category](chart_category.png)
+![Monthly trend](chart_trend.png)
+
+[View full sample report (PDF)](sales_report.pdf)
+
 
 
 
